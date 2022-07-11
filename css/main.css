@@ -16,7 +16,7 @@
     color:#FFF;
     border-radius:50px;
     text-align:center;
-  font-size:1.7 em;
+    font-size:1.7em;
     box-shadow: 2px 2px 3px #999;
   z-index:100;
   text-decoration: none;
@@ -196,12 +196,18 @@
     text-align: center;
     color: rgba(0, 0, 0, 0.918);
     font-size: 2.1em;
+    color: red;
 }
 
 .widget h1{
     font-size: 2em;
     font-weight: 550;
     color: red;
+}
+
+.widget h4{
+    text-align: center;
+
 }
 
 .widget button{
@@ -220,7 +226,6 @@
 .widget a{
     text-decoration: none;
 }
-
 /* (FIN)Menu de comidas */
 
 /* Ubicaciones */
